@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carlee Ouwerkerk Math Quiz", "Carlee Ouwerkerk Math Quiz\Carlee Ouwerkerk Math Quiz.csproj", "{3EEABBCA-669A-4691-90BC-08D93DC3289D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EEABBCA-669A-4691-90BC-08D93DC3289D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEABBCA-669A-4691-90BC-08D93DC3289D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEABBCA-669A-4691-90BC-08D93DC3289D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEABBCA-669A-4691-90BC-08D93DC3289D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {030A5742-DF49-4AA5-8146-2B77CFE68335}
+	EndGlobalSection
+EndGlobal
